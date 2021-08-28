@@ -1,4 +1,4 @@
-﻿# -JavascriptChallenges#2-NameSearch
+﻿# JavascriptChallenges#2-NameSearch
 
 # JavascriptChallenges#2(Basic Name Search Query)
 
