@@ -35,7 +35,7 @@ searchBox.addEventListener("keyup", function(event) {
     let allItems = document.getElementsByClassName('item');
     
     for(let i=0; i<allItems.length; i++) {
-        const currentValue = allItems[i].textContent;
+        const currentValue = allItems[i].textContent.toLowerCase();;
 
         if(currentValue.includes(serachValue)){
             allItems[i].style.display = 'block';
